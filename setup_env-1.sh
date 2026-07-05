@@ -5,7 +5,7 @@
 module load miniconda3/24.1.2-py310
 
 # Create Conda environment (now includes pandas/scipy/seaborn/sklearn/ggplot2/caret)
-conda env create -f environment.yml
+conda env create -f environment-1.yml
 
 # Activate the environment
 conda activate 7030_class_1
