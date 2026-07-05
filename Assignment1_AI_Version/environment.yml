@@ -1,9 +1,0 @@
-name: assignment1_ai
-channels:
-  - conda-forge
-dependencies:
-  - python=3.12.11
-  - r-base=4.4.3
-  - pip=25.1
-  - pip:
-      - -r requirements.txt
